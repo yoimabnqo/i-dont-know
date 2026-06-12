@@ -6,6 +6,4 @@ tutorial for dummies:
 
 2: run the exe
 
-3: pray it runs, if it doesnt, repeat step 2
-
-4: copy it or delete it, i dont care
+3: pray it runs, if it doesnt, repeat step 2 or make an issue i guess
